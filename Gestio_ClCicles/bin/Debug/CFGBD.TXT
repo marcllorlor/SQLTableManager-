@@ -1,0 +1,2 @@
+Data Source=PC-LLORCA\LIBRO;Integrated Security=True
+bdCicles
